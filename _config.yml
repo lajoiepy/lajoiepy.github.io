@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pierre-Yves Lajoie"
+title                    : "Assistant Professor of Robotics and AI"
 title_separator          : "-"
 name                     : &name "Pierre-Yves Lajoie"
 description              : &description "Assistant Professor of Robotics and AI"
