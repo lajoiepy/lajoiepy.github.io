@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Robotics and AI in the Department of Computer and Software Engineering at [Polytechnique Montréal](https://polymtl.ca/) (engineering school affiliated with [Université de Montréal](https://www.umontreal.ca/)). Prior to becoming a professor, I completed a PhD at Polytechnique Montréal, during which I was a visiting researcher at the [Mobile Robotics Group](https://ori.ox.ac.uk/labs/mobile-robotics-group/) at the University of Oxford and the [SPARK Lab](https://web.mit.edu/sparklab/) at the Massachusetts Institute of Technology (MIT), as well as a research intern at [Samsung Research America](https://sra.samsung.com/).
+I am an Assistant Professor of Robotics and AI in the Department of Computer and Software Engineering at [Polytechnique Montréal](https://polymtl.ca/) (engineering school of the [Université de Montréal](https://www.umontreal.ca/)). Prior to becoming a professor, I completed a PhD at Polytechnique Montréal, during which I was a visiting researcher at the [Mobile Robotics Group](https://ori.ox.ac.uk/labs/mobile-robotics-group/) at the University of Oxford and the [SPARK Lab](https://web.mit.edu/sparklab/) at the Massachusetts Institute of Technology (MIT), as well as a research intern at [Samsung Research America](https://sra.samsung.com/).
 
 My research focuses on autonomous robotics, with an emphasis on collaborative perception, computer vision, distributed systems, and artificial intelligence applied to multi-robot networks.
 
