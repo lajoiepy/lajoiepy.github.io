@@ -35,6 +35,6 @@ If you are interested in working with me, please send: your CV, transcripts, and
   [PBEEE Merit Scholarship](https://frq.gouv.qc.ca/en/program/frqnt-merit-scholarship-program-for-foreign-students-pbeee-2024-2025/);
   - Postdocs: Funding opportunities through [NSERC Postdoctoral Fellowship](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp), [Mitacs Elevate](https://www.mitacs.ca/our-programs/elevate-students-postdocs/), [FRQ Scholarship](https://frq.gouv.qc.ca/en/program/secteur-nature-et-technologies-bourses-postdoctorales-b3x-2025-2026/), [IVADO Postdoc Scholarship](https://ivado.ca/en/scholarships-and-grants/postdoctoral-research-funding/);
   - Travel and exchanges for [local and foreign students](https://www.polymtl.ca/point/en/travel-and-exchange-bursaries).
-  - [Arbour Foundation](https://www.polymtl.ca/aide-financiere/bourses/bourses-de-la-fondation-arbour)
+  - [Foundation Arbour](https://www.polymtl.ca/aide-financiere/bourses/bourses-de-la-fondation-arbour)
   - Depending on the project: [Hydro-Québec Scholarship](https://iet.polymtl.ca/en/scholarships/bourse-hydro-quebec), [Women in Aerospace](https://www.criaq.aero/en/appel/scolarship-nextgeneration-women-2024/)
   - More scholarships are available on [Polytechnique's website](https://www.polymtl.ca/aide-financiere/bourses/recherche/)
