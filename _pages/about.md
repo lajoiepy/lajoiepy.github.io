@@ -26,7 +26,7 @@ I am looking for highly motivated and curious students with a strong background 
 
 If you are interested in working with me, please send: your CV, transcripts, and a brief summary of your research interests.
 
-- **PhD and Master’s Students**: Openings for Fall 2025, or in 2026.
+- **PhD and Master’s Students**: Openings for 2026.
 
 - **You are also welcome to contact me if you are interested in working with me through any of the following scholarship opportunities:**
   - Undergraduate Students: Opportunities via [Mitacs Globalink Research Internships](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [NSERC Undergraduate Student Research Awards (USRA)](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp), [IVADO Undergraduate Research Scholarship](https://ivado.ca/en/scholarships-and-grants/undergraduate-introduction-to-research-scholarships/), [Polytechnique's UPIR program](https://www.polymtl.ca/aide-financiere/bourses/bourses-upir-unite-de-participation-et-dinitiation-la-recherche);
